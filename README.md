@@ -7,4 +7,4 @@ The System offers Many Functionalities:</br></br>
 4-Management Of Tests based on their Types</br></br>
 5-User Loggings Registeration </br></br>
 Note: after you Restore The DataBase Make sure To go to DataAccessLayer->clsDataAccessSettings and change the connection string to your connection string 
-![image alt](https://github.com/Toufik-Sam/Driving-License-Management-System/blob/6919463994cd91f00cd01dbc3cc504d3bf83823e/ScreenshotLogin.PNG)
+![image alt](https://github.com/Toufik-Sam/Driving-License-Management-System/blob/79c11bb2b582ddadf3cabea1cc9abde4ed17dc41/Screenshot.PNG)
