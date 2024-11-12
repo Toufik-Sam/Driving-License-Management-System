@@ -35,6 +35,6 @@ A comprehensive management system to manage the process of issuing, renewing, an
 - **Three-tier architecture**: Data layer, business logic layer, and presentation layer.
  
 ## Contact
-Created by [Toufik Sam Bouafia] - [toufik.sam2022@gmail.com] - [www.linkedin.com/in/toufik-sam-bouafia-455773337]
+[toufik.sam2022@gmail.com] - [www.linkedin.com/in/toufik-sam-bouafia-455773337]
 
 ![image alt](https://github.com/Toufik-Sam/Driving-License-Management-System/blob/79c11bb2b582ddadf3cabea1cc9abde4ed17dc41/Screenshot.PNG)
