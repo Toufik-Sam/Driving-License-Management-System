@@ -33,7 +33,9 @@ A comprehensive management system to manage the process of issuing, renewing, an
 
 ## Project Architecture
 - **Three-tier architecture**: Data layer, business logic layer, and presentation layer.
- 
+ ## License
+[MIT License](LICENSE)
+
 ## Contact
 [toufik.sam2022@gmail.com] - [www.linkedin.com/in/toufik-sam-bouafia-455773337]
 
